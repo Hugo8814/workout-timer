@@ -78,4 +78,4 @@ function Calculator({ workouts, allowSound }) {
   );
 }
 
-export default memo(Calculator); //export default Calculator;
+export default memo(Calculator); /////export default Calculator;
